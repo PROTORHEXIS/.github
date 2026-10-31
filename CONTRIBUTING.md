@@ -1,5 +1,9 @@
 # Contributing to PROTORHEXIS / 参与源爆点协作
 
+**Languages / 语言 / Langues / Idiomas / Языки:** **简体中文** · [English](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.en.md) · [Français](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.fr.md) · [Español](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.es.md) · [Русский](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.ru.md)
+
+> 译文与组织默认文件在同一个 PR 中审查；以上默认分支链接仅在合并后生效。 / Translations are reviewed together; default-branch links become live only upon merge.
+
 欢迎以问题报告、研究线索、设计讨论、文档改进或代码变更参与源爆点（PROTORHEXIS）。我们重视清楚的边界、可追溯的判断和彼此尊重的协作。本文件是组织的**默认协作指南**，不代表所有仓库都开放外部贡献，也不构成对研究、实现或发布状态的承诺。
 
 ## 1. 先确认仓库与权限 / Start with repository scope
