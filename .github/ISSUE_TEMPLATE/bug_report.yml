@@ -1,0 +1,48 @@
+name: "缺陷报告 / Bug report"
+description: "记录可观察的问题与复现证据 / Report an observable defect with evidence"
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。请先核查仓库范围与现有 Issue。**不要在公开表单中提交漏洞利用细节、密钥、私有日志或个人信息。** 安全问题参见仓库 Security Policy。
+
+        Thanks for reporting. Do not include exploit details, secrets, private logs or personal data in a public issue.
+  - type: textarea
+    id: observed
+    attributes:
+      label: "实际现象 / Observed behavior"
+      description: "发生了什么？请写可观察的事实。 / What actually happened?"
+      placeholder: "简要说明问题 / Describe the observed issue"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "预期现象 / Expected behavior"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: "复现步骤与环境 / Reproduction and environment"
+      description: "注明版本、平台或提交；无法复现时请说明。 / Include version, platform or commit when known."
+    validations:
+      required: false
+  - type: textarea
+    id: impact
+    attributes:
+      label: "影响范围与证据 / Impact and evidence"
+      description: "可以链接经过脱敏且已获准分享的材料；明确区分事实与推测。 / Link only approved, sanitized evidence."
+    validations:
+      required: false
+  - type: dropdown
+    id: evidence_status
+    attributes:
+      label: "当前证据状态 / Evidence status"
+      options:
+        - "可重复观察 / Reproduced"
+        - "一次性观察 / Observed once"
+        - "尚未验证 / Unverified"
+    validations:
+      required: true
