@@ -8,9 +8,13 @@
 
 **源爆点** · *pro-to-REK-sis*
 
+**Languages / 语言 / Langues / Idiomas / Языки:** [English](#english-overview) · [简体中文](#中文介绍) · [Français](i18n/README.fr.md) · [Español](i18n/README.es.md) · [Русский](i18n/README.ru.md)
+
 > Researching the foundations of human–AI symbiosis.
 >
 > 探索人机共生的文明基础。
+
+## English overview
 
 PROTORHEXIS (源爆点) is an independent, interdisciplinary research and engineering initiative. We explore the systems, institutions, and technologies that could enable people and intelligent systems to investigate, create, and live together with greater freedom, resilience, and dignity.
 
