@@ -1,5 +1,7 @@
 # PROTORHEXIS 组织协作基线（候选）
 
+**Languages / 语言 / Langues / Idiomas / Языки:** **简体中文** · [English](i18n/COLLABORATION_BASELINE.en.md) · [Français](i18n/COLLABORATION_BASELINE.fr.md) · [Español](i18n/COLLABORATION_BASELINE.es.md) · [Русский](i18n/COLLABORATION_BASELINE.ru.md)
+
 > Status: `PROPOSED` · 适用对象：组织公共 `.github` 仓库 · 维护：组织 Owner/指定维护者
 >
 > 本文说明通用模板的**适用范围与启用条件**，不是产品 Canonical、技术 ADR、仓库权限设置或已执行的安全审计证明。
@@ -18,6 +20,8 @@
 | [`change_proposal.yml`](../.github/ISSUE_TEMPLATE/change_proposal.yml) | 候选工程、研究与治理提案 | 提案不是已批准规范 |
 | [`config.yml`](../.github/ISSUE_TEMPLATE/config.yml) | 保留自由格式 Issue 入口 | 各项目可覆盖 |
 | [`SECURITY.md`](../SECURITY.md) | 负责任的漏洞披露引导 | 不声称私密报告已启用或提供 SLA |
+
+本组织的公开资料采用五种语言入口：简体中文、English、Français、Español、Русский。组织简介和主要协作/安全指引均提供对应内容；GitHub Issue Forms 与 PR 自动模板保留中英双语主界面，并提供其他语言的指南链接。新增语言须同步语义性关键变更，尤其是保密披露、授权、验证与 HOLD；译文不得改变规范效力或自行承诺维护时限。
 
 ## 继承范围、启用方式与覆盖规则
 
