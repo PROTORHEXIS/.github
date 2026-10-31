@@ -1,5 +1,7 @@
 ## 变更摘要 / Summary
 
+<!-- Multilingual contribution guidance: Français https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.fr.md · Español https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.es.md · Русский https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.ru.md -->
+
 <!-- 说明这次 PR 解决什么问题，以及为什么现在需要。 / What changes and why? -->
 
 - 目标 / Goal:
