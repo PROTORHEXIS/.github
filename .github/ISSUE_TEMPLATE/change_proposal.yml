@@ -8,6 +8,8 @@ body:
         此表单用于讨论候选方案，不代表已经批准实施或提升为组织规范。跨项目契约、架构、权限及公开范围变更须遵守目标仓库的适用审批规则。
 
         A proposal is not an approval or an adopted organization-wide standard.
+
+        Guides: [Français](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.fr.md) · [Español](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.es.md) · [Русский](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.ru.md)
   - type: textarea
     id: problem
     attributes:
