@@ -8,7 +8,9 @@
 
 **源爆点** · *pro-to-REK-sis*
 
-> Researching the foundations of human–AI symbiosis.\n>\n> 探索人机共生的文明基础。
+> Researching the foundations of human–AI symbiosis.
+>
+> 探索人机共生的文明基础。
 
 PROTORHEXIS (源爆点) is an independent, interdisciplinary research and engineering initiative. We explore the systems, institutions, and technologies that could enable people and intelligent systems to investigate, create, and live together with greater freedom, resilience, and dignity.
 
