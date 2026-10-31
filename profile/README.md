@@ -1,5 +1,11 @@
 # PROTORHEXIS
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/PROTORHEXIS_C1_B_white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/PROTORHEXIS_C1_B_black.svg">
+  <img alt="PROTORHEXIS · 源爆点 — A4-1 C1 symbol and English wordmark" src="../assets/PROTORHEXIS_C1_B_black.svg" width="760">
+</picture>
+
 **源爆点** · *pro-to-REK-sis*
 
 > Researching the foundations of human–AI symbiosis.\n>\n> 探索人机共生的文明基础。
