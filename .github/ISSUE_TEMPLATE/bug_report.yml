@@ -8,6 +8,8 @@ body:
         感谢反馈。请先核查仓库范围与现有 Issue。**不要在公开表单中提交漏洞利用细节、密钥、私有日志或个人信息。** 安全问题参见仓库 Security Policy。
 
         Thanks for reporting. Do not include exploit details, secrets, private logs or personal data in a public issue.
+
+        Guides: [Français](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.fr.md) · [Español](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.es.md) · [Русский](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/CONTRIBUTING.ru.md)
   - type: textarea
     id: observed
     attributes:
