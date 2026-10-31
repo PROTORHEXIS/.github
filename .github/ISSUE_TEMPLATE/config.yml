@@ -1,0 +1,3 @@
+# Keep free-form issues available where repository maintainers permit issues.
+# Repositories may override these organization defaults with local templates.
+blank_issues_enabled: true
