@@ -1,5 +1,9 @@
 # Security Policy / 安全漏洞披露政策
 
+**Languages / 语言 / Langues / Idiomas / Языки:** **简体中文** · [English](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/SECURITY.en.md) · [Français](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/SECURITY.fr.md) · [Español](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/SECURITY.es.md) · [Русский](https://github.com/PROTORHEXIS/.github/blob/main/docs/i18n/SECURITY.ru.md)
+
+> 译文在候选分支提供，默认分支链接仅在合并后生效。 / Translations are part of this candidate; default-branch links become live only after merge.
+
 PROTORHEXIS 认真对待安全问题、负责任的披露和研究参与者的隐私。此文件是组织仓库可继承的**默认披露指引**；具体产品的支持版本、维护承诺和安全响应流程由相应仓库另行说明。
 
 ## 适用范围 / Scope
